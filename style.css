@@ -1,0 +1,47 @@
+body{
+    background-image: url(style1.jpg);
+    background-size: cover;
+}
+a{
+    color: rg;
+}
+h1{
+    background-color: gold;
+    font-size: 50px;
+    text-decoration: overline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+h2{
+    color: gold;
+}
+*{
+    color: rgba(145, 164, 55, 111);
+}
+h3{
+    font-style: italic;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+h5,p{
+    padding: 10px;
+    line-height: 30px;
+    text-decoration: none;
+    transform: matrix(10px);
+    font-size: 20px;
+    margin:10px;
+    max-width: 5p;
+}
+.btn{
+    background: #f4c542;
+  color:black;
+  padding: 0.8rem 1.2rem;
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 1rem;
+}
+.hero{
+    background-color: #f4c542;
+}
